@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0076-minimum-window-substring](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -21,4 +22,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
+## Array
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0037-sudoku-solver) |
+## Backtracking
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0037-sudoku-solver) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0037-sudoku-solver) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
