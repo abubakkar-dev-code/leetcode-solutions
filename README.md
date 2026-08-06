@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
+| [0877-stone-game](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 ## Backtracking
 |  |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## Divide and Conquer
@@ -111,4 +113,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0877-stone-game) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
