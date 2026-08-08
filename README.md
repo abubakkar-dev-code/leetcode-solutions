@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0051-n-queens) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0877-stone-game](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0877-stone-game) |
 ## Minimax
 |  |
@@ -137,4 +139,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+## Greedy
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
