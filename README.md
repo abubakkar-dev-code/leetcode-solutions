@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0076-minimum-window-substring](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0076-minimum-window-substring) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0424-longest-repeating-character-replacement](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0692-top-k-frequent-words](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0051-n-queens) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 ## Geometry
@@ -167,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 ## Depth-First Search
@@ -179,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
