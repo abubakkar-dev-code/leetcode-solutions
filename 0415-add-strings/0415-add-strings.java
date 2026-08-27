@@ -7,9 +7,9 @@ class Solution {
             int b=j>=0?num2.charAt(j--)-'0':0;
             int c=a+b+carry;
             int sum=c%10;
-            sb.append(sum);
+            sb.insert(0,sum);
             carry=c/10;
         }
-        return sb.reverse().toString();
+        return sb.toString();
     }
 }
