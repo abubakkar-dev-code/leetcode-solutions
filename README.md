@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0344-reverse-string](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
