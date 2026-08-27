@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0344-reverse-string](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0415-add-strings](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0415-add-strings) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0007-reverse-integer) |
+| [0067-add-binary](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0415-add-strings) |
 | [0877-stone-game](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
@@ -278,5 +280,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0415-add-strings) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
