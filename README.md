@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0344-reverse-string](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0344-reverse-string) |
+| [0415-add-strings](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0541-reverse-string-ii](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0541-reverse-string-ii) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0007-reverse-integer) |
+| [0415-add-strings](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0415-add-strings) |
 | [0877-stone-game](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
@@ -273,4 +275,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+## Simulation
+|  |
+| ------- |
+| [0415-add-strings](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0415-add-strings) |
 <!---LeetCode Topics End-->
