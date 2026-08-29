@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0692-top-k-frequent-words](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0415-add-strings](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0018-4sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0658-find-k-closest-elements](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
 | [0973-k-closest-points-to-origin](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
@@ -307,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0067-add-binary) |
+| [0389-find-the-difference](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0389-find-the-difference) |
 ## Queue
 |  |
 | ------- |
