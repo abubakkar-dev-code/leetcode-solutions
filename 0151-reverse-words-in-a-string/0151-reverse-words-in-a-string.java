@@ -1,26 +1,23 @@
 class Solution {
     public String reverseWords(String s) {
         StringBuilder sb = new StringBuilder();
-        int i = 0;
         int n = s.length();
-        while (i < n) {
+        for (int i = 0; i < n; i++) {
             while (i < n && s.charAt(i) == ' ') {
                 i++;
             }
             if (i >= n)
                 break;
-            int j = i + 1;
-            while (j < n && s.charAt(j) != ' ') {
-                j++;
+            int firstIndex=i;
+            while (i< n && s.charAt(i) != ' ') {
+                i++;
             }
-            String sub=s.substring(i,j);
+            String sub = s.substring(firstIndex, i);
             if (sb.length() == 0) {
                 sb.append(sub);
             } else {
-                sb.insert(0, sub+" ");
+                sb.insert(0, sub + " ");
             }
-            i = j + 1;
-            j = i + 1;
         }
         return String.valueOf(sb);
     }
