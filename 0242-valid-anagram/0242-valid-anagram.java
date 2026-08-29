@@ -1,17 +1,14 @@
 class Solution {
     public boolean isAnagram(String s, String t) {
-        HashMap<Character, Integer> map = new HashMap<>();
-        if (s.length() != t.length()) {
-            return false;
+        int freq[]=new int[26];
+        for(char ch:t.toCharArray()){
+            freq[ch-'a']++;
         }
-        for (char ch : s.toCharArray()) {
-            map.put(ch, map.getOrDefault(ch, 0) + 1);
+        for(char ch:s.toCharArray()){
+            freq[ch-'a']--;
         }
-        for (char ch2 : t.toCharArray()) {
-            map.put(ch2, map.getOrDefault(ch2, 0) - 1);
-        }
-        for(char c:map.keySet()){
-            if(map.get(c)>0){
+        for(int count:freq){
+            if(count!=0){
                 return false;
             }
         }
