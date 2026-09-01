@@ -5,11 +5,11 @@ class Solution {
             char ch = s.charAt(i);
             freq[ch]++;
         }
-        Character[] keys = new Character[128];
+        List<Character> keys = new ArrayList<>();
         for (int i = 0; i < freq.length; i++) {
-            keys[i] = (char) (i);
+            keys.add((char)(i));
         }
-        Arrays.sort(keys, (a, b) -> freq[b] - freq[a]);
+        keys.sort((a, b) -> freq[b] - freq[a]);
         StringBuilder sb = new StringBuilder();
         for (char ch : keys) {
             for (int i = 0; i < freq[ch]; i++) {
