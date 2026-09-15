@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0643-maximum-average-subarray-i](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0067-add-binary](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0067-add-binary) |
+| [0189-rotate-array](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0415-add-strings](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0415-add-strings) |
 | [0877-stone-game](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0541-reverse-string-ii](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0541-reverse-string-ii) |
