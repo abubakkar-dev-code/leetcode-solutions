@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0136-single-number](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0389-find-the-difference) |
 ## Queue
