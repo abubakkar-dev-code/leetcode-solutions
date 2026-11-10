@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0389-find-the-difference) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
+| [0268-missing-number](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0643-maximum-average-subarray-i](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0067-add-binary](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0415-add-strings) |
 | [0877-stone-game](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
@@ -132,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0658-find-k-closest-elements](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
@@ -159,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0268-missing-number](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0658-find-k-closest-elements](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 ## Trie
@@ -348,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/abubakkar-dev-code/leetcode-solutions/tree/master/0389-find-the-difference) |
 ## Queue
